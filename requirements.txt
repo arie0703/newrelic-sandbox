@@ -1,0 +1,8 @@
+python-dotenv
+tweepy
+transformers
+torch
+jax
+tensorflow
+fugashi
+ipadic
